@@ -11,6 +11,7 @@ To understand how Maven Roasters' sales have trended over time, the project will
 Determining the busiest days of the week involves analyzing transaction records to identify patterns in customer traffic. The project will explore whether specific days consistently exhibit higher sales volumes. Potential factors contributing to busy days could include weekday routines, weekends, or special events in the vicinity of the coffee shop locations.
 
 3. Product Analysis
+
 3.1 Most and Least Popular Products
 Analyzing product-level details will reveal which items are the most and least popular among customers. This information can guide inventory management, allowing the coffee shop to optimize stock levels for high-demand products and potentially reconsider the marketing or placement of less popular items.
 
